@@ -1,5 +1,6 @@
 # 💫 About Me:
-🍐 I'm currently working on Kettuposti
+🍐 software engineer at Hruška
+🦊 working on Kettuposti
 
 
 # 💻 Tech Stack:
